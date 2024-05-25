@@ -11,7 +11,7 @@ class Program
         string filePath = "hotel_data.txt";
         List<Room> rooms = new List<Room>
         {
-            new Room(1, "Одноместный", 50m),
+            new Room(1, "Одномісний", 50m),
             new Room(2, "Двухместный", 80m),
             new Room(3, "Люкс", 120m)
         };

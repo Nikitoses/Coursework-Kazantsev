@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 
 class Program
-{>
+{
     static void Main(string[] args)
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
